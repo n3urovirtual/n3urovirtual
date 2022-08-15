@@ -4,7 +4,7 @@ Seems you've came across my Github profile! Let me hold you a little bit longer.
 <br/><br/>
 
 ### 👨‍💻 About Me:
-I am an Experimental Psychology PhD candidate. I study how people learn and remember information in naturalistic environments employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology.<br/><br/>
+I am an Experimental Psychology PhD candidate and a self-taught programmer. I study how people learn and remember information in naturalistic environments employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve human perception/cognition. <br/><br/>
 
 
 ### 💻 Tech Stack:

@@ -28,7 +28,7 @@ Below you can find some of my personal/professional projects that might be of in
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-gkoumas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/n3uro_virtual) 
-  * If you have any questions/feedback, do not hesitate to [reach out to me](mailto:chrgkoumas@gmail.com)!
+  * If you are interested in my profile or have any questions/feedback, do not hesitate to [reach out to me](mailto:chrgkoumas@gmail.com)!
 
 <!--
 **n3urovirtual/n3urovirtual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

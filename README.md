@@ -1,7 +1,7 @@
-## Hello there, I'm Christos! 👋
-
- ![Banner](BannerCG.png)
+![Banner](BannerCG.png)
 <br/>
+
+## Hello there, I'm Christos! 👋
 
 ### 👨‍💻 About Me:
 I am an Experimental Psychology PhD candidate and a self-taught programmer. I study how people learn and remember information in naturalistic environments employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve perception, cognition & health. <br/><br/>

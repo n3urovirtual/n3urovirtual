@@ -22,7 +22,7 @@ Below you can find some of my personal/professional projects that might be of in
 
 :point_right: [**Here**](https://github.com/n3urovirtual/Tap-and-Play) is a tablet serious game I developed using Unity that promotes goal-directed behavior for children with cortical visual impairment. 
 
-:point_right: [**Here**](https://github.com/n3urovirtual/Incise) is a proof of concept application I developed using Unity that combines aiming with cognitive training.
+:point_right: [**Here**](https://github.com/n3urovirtual/Incise) is a proof of concept I developed using Unity that combines aiming with cognitive training.
 <br/><br/>
 
 

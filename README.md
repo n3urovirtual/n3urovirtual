@@ -16,11 +16,8 @@ I am an Experimental Psychology PhD candidate and a self-taught programmer. I st
 Below you can find some of my personal/professional projects that might be of interest to you:
 
 :point_right: [**Here**](https://github.com/n3urovirtual/child_ANT) is a computerized cognitive task I designed using PsychoPy that measures the efficiency of the three attention networks + a Python script to analyze the behavioral data.
-
 :point_right: [**Here**](https://github.com/n3urovirtual/Edge_Detection_Application) is a web application I created that performs edge detection in user-provided images.
-
 :point_right: [**Here**](https://github.com/n3urovirtual/Tap-and-Play) is a tablet serious game I developed using Unity that promotes goal-directed behavior for children with cortical visual impairment.
-
 :point_right: [**Here**](https://github.com/n3urovirtual/Incise) is a proof of concept I developed using Unity that combines aiming with cognitive training.
 <br/><br/>
 

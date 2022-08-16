@@ -12,7 +12,7 @@ I am an Experimental Psychology PhD candidate and a self-taught programmer. I st
 <br/><br/>
 
 
-### 💫 Looking for something interesting?  
+### 💫 What's in here for you?  
 
 Below you can find some of my personal/professional projects that might be of interest to you:
 

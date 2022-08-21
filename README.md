@@ -27,7 +27,7 @@ Below you can find some of my personal/professional projects that might be of in
 <br/><br/>
 
 
-### 🌐 Connect with me:
+### 🌐 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-gkoumas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/n3uro_virtual)
   * If you are interested in my profile or have any questions/feedback, do not hesitate to [reach out to me](mailto:chrgkoumas@gmail.com)!
 

@@ -15,13 +15,13 @@ I am an Experimental Psychology PhD candidate and a self-taught programmer. I st
 ### 💫 What's in here?  
 Below you can find some of my personal/professional projects that might be of interest to you:
 
+:point_right: [**Here**](https://github.com/n3urovirtual/PicoXR_EyeTracking_Demo) is a web application I created that performs edge detection in user-provided images.
+
 :point_right: [**Here**](https://github.com/n3urovirtual/ML_Beginner_Course) is a course I created for beginners to get started with Machine Learning using Python.
 
 :point_right: [**Here**](https://github.com/n3urovirtual/Gaze_Visualizer) is an easy-to-use library to visualize eye-tracking data using Python.
 
 :point_right: [**Here**](https://github.com/n3urovirtual/child_ANT) is a task I designed using PsychoPy that measures the efficiency of the three attention networks + a Python script to analyze the behavioral data.
-
-:point_right: [**Here**](https://github.com/n3urovirtual/Edge_Detection_Application) is a web application I created that performs edge detection in user-provided images.
 
 :point_right: [**Here**](https://github.com/n3urovirtual/Tap-and-Play) is a tablet serious game I developed using Unity that fosters goal-directed behavior.
 

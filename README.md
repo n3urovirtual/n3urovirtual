@@ -4,7 +4,7 @@
 ## Hello there, I'm Christos! 👋
 
 ### 👨‍💻 About Me:
-I am an Experimental Psychology PhD candidate and a self-taught programmer. I study how people learn and remember information in naturalistic environments employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve perception, cognition & health. <br/><br/>
+I am an Experimental Psychology PhD candidate and a self-taught programmer. I study human behavior employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve perception, cognition & health. I enjoy working on impactful projects that have the potential to change people's lives. <br/><br/>
 
 
 ### 💻 Tech Stack:
@@ -15,11 +15,13 @@ I am an Experimental Psychology PhD candidate and a self-taught programmer. I st
 ### 💫 What's in here?  
 Below you can find some of my personal/professional projects that might be of interest to you:
 
+:point_right: [**Here**](https://github.com/n3urovirtual/PicoXR_EyeTracking_Demo) is an eyetracking in VR demo showcasing different use cases, such as gaze analytics, gaze-based selection and speech-to-text technology.
+
 :point_right: [**Here**](https://github.com/n3urovirtual/ML_Beginner_Course) is a course I created for beginners to get started with Machine Learning using Python.
 
-:point_right: [**Here**](https://github.com/n3urovirtual/child_ANT) is a task I designed using PsychoPy that measures the efficiency of the three attention networks + a Python script to analyze the behavioral data.
+:point_right: [**Here**](https://github.com/n3urovirtual/Gaze_Visualizer) is an easy-to-use library to visualize eye-tracking data using Python.
 
-:point_right: [**Here**](https://github.com/n3urovirtual/Edge_Detection_Application) is a web application I created that performs edge detection in user-provided images.
+:point_right: [**Here**](https://github.com/n3urovirtual/child_ANT) is a task I designed using PsychoPy that measures the efficiency of the three attention networks + a Python script to analyze the behavioral data.
 
 :point_right: [**Here**](https://github.com/n3urovirtual/Tap-and-Play) is a tablet serious game I developed using Unity that fosters goal-directed behavior.
 

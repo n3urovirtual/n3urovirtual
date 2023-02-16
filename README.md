@@ -15,7 +15,7 @@ I am an Experimental Psychology PhD candidate and a self-taught programmer. I st
 ### 💫 What's in here?  
 Below you can find some of my personal/professional projects that might be of interest to you:
 
-:point_right: [**Here**](https://github.com/n3urovirtual/PicoXR_EyeTracking_Demo) is an eyetracking in VR demo showcasing different use cases, such as gaze analytics, gaze-based interaction and speeck-to-text technology.
+:point_right: [**Here**](https://github.com/n3urovirtual/PicoXR_EyeTracking_Demo) is an eyetracking in VR demo showcasing different use cases, such as gaze analytics, gaze-based selection and speech-to-text technology.
 
 :point_right: [**Here**](https://github.com/n3urovirtual/ML_Beginner_Course) is a course I created for beginners to get started with Machine Learning using Python.
 

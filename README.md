@@ -4,7 +4,7 @@
 ## Hello there, I'm Christos! 👋
 
 ### 👨‍💻 About Me:
-I am an Experimental Psychology PhD candidate and a self-taught programmer. I study human behavior employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve perception, cognition & health. I enjoy working on impactful projects that have the potential to change people's lives. <br/><br/>
+I am a Researcher and a self-taught programmer. I study human behavior employing different methodological tools, such as `virtual reality`, `eye tracking`, and `computerized cognitive tasks`. I am passionate about things that lie at the intersection of psychology and technology, ranging from how people interact with technology to how we could use technology to assess and improve perception, cognition & health. I enjoy working on impactful projects that have the potential to change people's lives. <br/><br/>
 
 
 ### 💻 Tech Stack:
